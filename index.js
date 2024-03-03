@@ -1,3 +1,3 @@
-console.log("hello semantic-release"
+console.log("hello semantic-release")
 
-// inserting a new line)
+// inserting a new line
