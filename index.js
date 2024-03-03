@@ -1,2 +1,2 @@
 console.log("hello semantic-release")
-ZX
+console.log("semantic-release who!")
